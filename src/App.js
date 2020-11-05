@@ -4,6 +4,9 @@ import React, {useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/*2020.11.05 code edit*/
+//KHS
+
 function App() {
 
   let [글제목, 글제목변경] = useState(['남자 코트 추천', '여자 코트 추천', '아동복']);
